@@ -1,17 +1,11 @@
-# flutter_body_health_calculator_app
+# Mobile Application by Flutter/Dart
 
-A new Flutter project.
+## โปรเจกคำนวณ BMI/BMR
 
-## Getting Started
+<img width="320" height="710" alt="Screenshot 2026-04-05 110707" src="https://github.com/user-attachments/assets/fb82ee79-62b4-4d44-a99e-0aaf538edf52" />
 
-This project is a starting point for a Flutter application.
+<img width="326" height="708" alt="Screenshot 2026-04-05 110739" src="https://github.com/user-attachments/assets/ecce757f-717a-4109-8c0c-4a97e4dbd882" />
 
-A few resources to get you started if this is your first Flutter project:
+<img width="320" height="712" alt="Screenshot 2026-04-05 110801" src="https://github.com/user-attachments/assets/940cac31-e58d-4b1f-9326-6e71afeca513" />
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="318" height="708" alt="Screenshot 2026-04-05 110816" src="https://github.com/user-attachments/assets/59980097-754e-48e5-abda-5c28eabe5469" />
