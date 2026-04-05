@@ -60,7 +60,7 @@ class _AboutUiState extends State<AboutUi> {
                   fit: BoxFit.cover,
                 ),
                 Text(
-                  'Developed by NinniN SAU 2026',
+                  'Developed by Korn SAU 2026',
                   style: TextStyle(
                     fontSize: 12,
                   ),
